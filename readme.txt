@@ -3,3 +3,4 @@ i want to update git
 i wang to reset git
 i can commit to github
 i update this 
+i want to conflict with Teemo2
