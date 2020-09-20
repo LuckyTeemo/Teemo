@@ -3,3 +3,4 @@ not use git add but use git commit -a
 version A
 verson 	B
 A分支的修改
+B分支的修改
