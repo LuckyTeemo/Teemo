@@ -7,8 +7,10 @@
 # 忽略所有在build文件夹下的文件
 build/
 # 忽略 doc/notes.txt, 但不包括多层下.txt例如: doc/server/arch.txt
-user1/*.txt
+#user1/*.txt
 # 忽略所有在doc目录下的.pdf文件
 user1/**/*.pdf
 # 忽略所有在user1下的.word文件
 user1/*.word
+# 忽略在user1文件夹下的.ppt文件
+user1/*.ppt
