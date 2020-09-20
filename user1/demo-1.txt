@@ -1,3 +1,4 @@
 i am not tracked
 not use git add but use git commit -a
 version A
+verson 	B
