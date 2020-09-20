@@ -1,3 +1,0 @@
-hello
-update operation is OK
-for compare content
